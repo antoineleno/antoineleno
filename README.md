@@ -1,6 +1,6 @@
-<img alt="Data science" width="400" src="https://img.freepik.com/premium-photo/digital-dashboard-showcasing-stakeholder-metrics-datadriven-insights-informed-decisionmaking_38013-8895.jpg?w=826">
 <h1 align="center">Hi 👋, I'm Antoine LENO</h1>
 <h3 align="center">A passionate Data Scientist and Web Developer.</h3>
+<img alt="Data science" width="1200" src="https://img.freepik.com/premium-photo/digital-dashboard-showcasing-stakeholder-metrics-datadriven-insights-informed-decisionmaking_38013-8895.jpg?w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineleno&label=Profile%20views&color=0e75b6&style=flat" alt="antoineleno" /> </p>
 
