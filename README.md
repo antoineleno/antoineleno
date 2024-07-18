@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine LENO</h1>
 <h3 align="center">A passionate Data Science and Web development</h3>
-![Boum](https://img.freepik.com/premium-vector/illustration-depicts-man-working-his-computer-analyzing-data-monitoring-performance-system_520881-3418.jpg?w=740)
+<https://img.freepik.com/premium-vector/illustration-depicts-man-working-his-computer-analyzing-data-monitoring-performance-system_520881-3418.jpg?w=740>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineleno&label=Profile%20views&color=0e75b6&style=flat" alt="antoineleno" /> </p>
 
