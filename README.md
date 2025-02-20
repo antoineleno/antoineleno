@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine LENO</h1>
-<h3 align="center">ALX Software Engineering Graduate | Transitioning into Data Science | Building Scalable Solutions.</h3>
+<h3 align="center">ALX Software Engineering Graduate | Transitioning into Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineleno&label=Profile%20views&color=0e75b6&style=flat" alt="antoineleno" /> </p>
 
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Backend projects, API development, and database optimization.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/antoineleno?tab=repositories](https://github.com/antoineleno?tab=repositories)
 
 - 💬 Ask me about **Backend Development | Database Management | API Design | SQL | System Architecture**
 
