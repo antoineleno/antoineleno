@@ -36,7 +36,7 @@
 - 🗄 **Database optimization**  
 
 ## 📩 Let's Connect  
-- 📧 Email: **lenoantoine2000@gmail.com**  
+- 📧 Email: **antoine.leno11@gmail.com**  
 
 
 
