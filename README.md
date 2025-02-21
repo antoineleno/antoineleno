@@ -44,7 +44,8 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=antoineleno&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineleno&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
