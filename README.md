@@ -40,7 +40,7 @@
 
 
 
-### My Github Stats:
+### My Github Stats
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
