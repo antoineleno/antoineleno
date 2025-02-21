@@ -11,9 +11,10 @@
   <a href="https://x.com/ALeno99770"><img align="left" alt= "Antoine LENO | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
 
-  <a href="https://www.linkedin.com/in/antoine-leno-5372962bb/">
-  <img align="right" alt="Aryan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
-  <a href="https://x.com/ALeno99770"><img align="right" alt= "Antoine LENO | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
+  <a href="https://kaggle.com/antoineleno" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="antoineleno" height="30" width="40" /></a>
+  <a href="https://instagram.com/antoineleno7" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoineleno7" height="30" width="40" /></a>
+
+ 
   <img align="right" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
 
   <br> <br>
