@@ -6,7 +6,7 @@
 
 <p align="center"> 
   
-  <a href="https://www.linkedin.com/in/aryan-upa/">
+  <a href="https://www.linkedin.com/in/antoine-leno-5372962bb/">
   <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
   <a href="https://twitter.com/aryanupa"><img align="left" alt= "Antoine LENO | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
