@@ -13,7 +13,7 @@
 
   <a href="https://www.linkedin.com/in/antoine-leno-5372962bb/">
   <img align="right" alt="Aryan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
-  <a href="https://x.com/ALeno99770"><img align="right" alt= "Antoine LENO | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
+  <a href="https://x.com/ALeno99770"><img align="right" alt= "Antoine LENO | Twitter" width="22px" src="hhttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /> </a>
   <img align="right" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
 
   <br> <br>
