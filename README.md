@@ -11,6 +11,10 @@
   <a href="https://x.com/ALeno99770"><img align="left" alt= "Antoine LENO | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
 
+  <span style="display: inline-block; text-align: center; font-size: 18px; font-weight: bold; margin: 0 10px;">
+    Connect with me
+  </span>
+
   <a href="https://kaggle.com/antoineleno" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="antoineleno" height="20" width="30" /></a>
   <a href="https://instagram.com/antoineleno7" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoineleno7" height="20" width="30" /></a>
 
