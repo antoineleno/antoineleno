@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image](https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746466892/Leno_BAck_p57wy3.jpg?_s=public-apps)
+![Banner Image](https://avatars.githubusercontent.com/u/9984201?v=4)
 
 ## About Me 🚀
 
