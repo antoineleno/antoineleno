@@ -14,6 +14,9 @@ I'm a dedicated **Software Engineer** specializing in **Backend Development**, w
 - ⚡ **Fun Fact:** I enjoy optimizing code like a puzzle—refining logic until it runs as efficiently as possible!
 
 
+## 📁 My Portfolio
+Visit my [portfolio](https://lenoantoine.vercel.app/) to see my projects, experience, and more.
+
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
