@@ -1,12 +1,27 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="150" align="left" style="margin-right: 20px; border-radius: 8px;" />
-  <div align="left">
-    <h3>👋 Hi there,</h3>
-    <p style="font-size: 16px; line-height: 1.5;">
-      I'm <strong>Antoine<strong>Backend Developer</strong>
-    </p>
-  </div>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="80%" style="border-radius: 50%;"/>
+      </td>
+      <td width="60%" valign="middle">
+        <h2 style="margin: 0; padding: 0;">👋 Hello, I'm Antoine</h2>
+        <p style="font-size: 18px; margin-top: 10px; color: #555;">
+          Backend Developer | Software Engineer<br>
+          Passionate about building scalable systems and efficient architectures
+        </p>
+        <p>
+          <a href="https://linkedin.com/in/yourprofile">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a>
+          <a href="mailto:your.email@example.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
