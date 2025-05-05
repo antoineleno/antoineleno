@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Left Image" width="45%" />
-  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Right Image" width="45%" />
+  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Antoine Image" width="45%" />
+  <span style="display:inline-block; vertical-align:middle; width:45%; text-align:left; font-size:18px;">
+    👋 Hi there,<br>
+    I am <strong>Antoine</strong>, Backend Developer
+  </span>
 </p>
 
 
