@@ -1,14 +1,13 @@
-<table>
-  <tr>
-    <td width="45%">
-      <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="100%" />
-    </td>
-    <td width="55%">
-      <h3>👋 Hi there,</h3>
-      <p>I am <strong>Antoine</strong>, Backend Developer</p>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="200px" style="border-radius: 10px;" />
+  <div align="left" style="max-width: 400px;">
+    <h2 style="margin: 0;">👋 Hi there,</h2>
+    <p style="margin-top: 5px; font-size: 18px; line-height: 1.5;">
+      I'm <strong>Antoine</strong>, a passionate <strong>Backend Developer</strong> who loves building scalable systems and efficient APIs. Welcome to my GitHub!
+    </p>
+  </div>
+</div>
+
 
 
 
