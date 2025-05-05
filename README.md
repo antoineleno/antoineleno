@@ -1,14 +1,11 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="200" style="border-radius: 50%; float: left; margin-right: 30px;"/>
-  
-  <div style="text-align: left; display: inline-block; max-width: 60%;">
-    <h1>👋 Hello, I'm Antoine Leno</h1>
-    <h3>Backend Developer | Software Engineer</h3>
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="160" style="border-radius: 50%;"/>
+  <div align="left">
+    <h2>👋 Hello, I'm Antoine</h2>
     <p>
-      Passionate about building scalable systems and efficient architectures. 
-      Specializing in backend development with expertise in distributed systems and cloud technologies.
+      <strong>Backend Developer | Software Engineer</strong><br>
+      Passionate about building scalable systems and efficient architectures.
     </p>
-    
     <p>
       <a href="https://linkedin.com/in/yourprofile">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -16,54 +13,57 @@
       <a href="mailto:your.email@example.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
-      <a href="https://github.com/antoineleno">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
     </p>
   </div>
 </div>
 
-<br clear="both"/>
+---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoineleno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineleno&layout=compact&langs_count=8&theme=radical"/>
-</div>
+I'm a passionate **Backend Developer** experienced in **Python, Flask, SQLAlchemy, MySQL**, and more.  
+I love tackling complex problems, learning new tools, and collaborating with diverse teams.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoineleno&theme=radical" alt="antoineleno" />
-</div>
+- 🌱 Currently learning: **Docker, Kubernetes, and Rust**
+- 🔭 Working on: **Campus Hostel Management Web App**
+- 🌍 Languages: **Python, JavaScript, SQL, French, English**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: I enjoy debugging more than writing code 😄
 
-## 🛠️ Technical Skills
+---
 
-### Languages
+## 🧠 My Skills
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+> 🏷️ *Feel free to add more skills or change the badge styles. Use [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) for more.*
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+---
 
-## 🌱 Currently Learning
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+## 📬 Get in Touch
 
-## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)
+- 🌐 [Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
 
-## 🚀 Recent Projects
-1. **[Project Name]** - Short description ([GitHub](link))
-2. **[Project Name]** - Short description ([GitHub](link))
-3. **[Project Name]** - Short description ([GitHub](link))
+---
+
+## 📈 GitHub Stats & Contributions
+
+![Antoine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoineleno&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoineleno&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoineleno&theme=tokyonight&hide_border=false)
+
+---
+
+> ✅ *Maintained by [antoineleno](https://github.com/antoineleno)*  
+> 📆 *Last updated: May 2025*
