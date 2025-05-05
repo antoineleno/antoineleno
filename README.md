@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="45%" />
-  <span style="display:inline-block; vertical-align:middle; width:45%; text-align:left; font-size:18px;">
-    👋 Hi there,<br>
-    I am <strong>Antoine</strong>, Backend Developer
-  </span>
-</p>
+<table>
+  <tr>
+    <td width="45%">
+      <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="100%" />
+    </td>
+    <td width="55%">
+      <h3>👋 Hi there,</h3>
+      <p>I am <strong>Antoine</strong>, Backend Developer</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ## About Me 🚀
