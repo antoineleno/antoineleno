@@ -1,68 +1,69 @@
-<p align="center">
-  <table>
-    <tr>
-      <td width="40%" align="center">
-        <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="80%" style="border-radius: 50%;"/>
-      </td>
-      <td width="60%" valign="middle">
-        <h2 style="margin: 0; padding: 0;">👋 Hello, I'm Antoine</h2>
-        <p style="font-size: 18px; margin-top: 10px; color: #555;">
-          Backend Developer | Software Engineer<br>
-          Passionate about building scalable systems and efficient architectures
-        </p>
-        <p>
-          <a href="https://linkedin.com/in/yourprofile">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-          </a>
-          <a href="mailto:your.email@example.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="200" style="border-radius: 50%; float: left; margin-right: 30px;"/>
+  
+  <div style="text-align: left; display: inline-block; max-width: 60%;">
+    <h1>👋 Hello, I'm Antoine Leno</h1>
+    <h3>Backend Developer | Software Engineer</h3>
+    <p>
+      Passionate about building scalable systems and efficient architectures. 
+      Specializing in backend development with expertise in distributed systems and cloud technologies.
+    </p>
+    
+    <p>
+      <a href="https://linkedin.com/in/yourprofile">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <a href="https://github.com/antoineleno">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </p>
+  </div>
+</div>
 
+<br clear="both"/>
 
+## 📊 GitHub Stats
 
-## About Me 🚀
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoineleno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineleno&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoineleno&theme=radical" alt="antoineleno" />
+</div>
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+## 🛠️ Technical Skills
 
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Featured Projects 💻
+## 🌱 Currently Learning
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### [Project 1 Title](project_1_link)
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com
+- Twitter: [@YourHandle](https://twitter.com/YourHandle)
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
+## 🚀 Recent Projects
+1. **[Project Name]** - Short description ([GitHub](link))
+2. **[Project Name]** - Short description ([GitHub](link))
+3. **[Project Name]** - Short description ([GitHub](link))
