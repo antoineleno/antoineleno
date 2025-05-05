@@ -1,6 +1,10 @@
 # Hi there, I'm Antoine LENO! 👋
 
-![Banner Image](https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps)
+<p align="center">
+  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Left Image" width="45%" />
+  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Right Image" width="45%" />
+</p>
+
 
 ## About Me 🚀
 
