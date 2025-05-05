@@ -27,63 +27,41 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <!-- Stats Card -->
-  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
-    <h3>Stats</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>⭐ <strong>Total Stars:</strong> 1</li>
-      <li>📅 <strong>2025 Commits:</strong> 230</li>
-      <li>🔄 <strong>Total PRs:</strong> 0</li>
-      <li>⚠️ <strong>Total Issues:</strong> 2</li>
-      <li>🤝 <strong>Contributed to:</strong> 20</li>
-    </ul>
-  </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoineleno&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoineleno&theme=github_dark"/>
 
-  <!-- Languages Card -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Top Languages</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>🐍 Python</li>
-      <li>🔧 C</li>
-      <li>🎨 SCSS</li>
-      <li>🐚 Shell</li>
-      <li>🟨 JavaScript</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Contribution Stats -->
-<div align="center" style="margin-top: 30px;">
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <h2>593</h2>
-    <p>Total Contributions<br>Aug 6, 2023 - Present</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <h2>2</h2>
-    <p>Current Streak<br>May 5 - May 6</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <h2>5</h2>
-    <p>Longest Streak<br>Apr 15 - Apr 19</p>
-  </div>
-</div>
-
-<!-- Activity Graph -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoineleno&theme=github-dark&hide_border=true&area=true" width="90%"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoineleno&theme=radical" alt="antoineleno" />
 </div>
 
 ## 🛠️ Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+## 🌱 Currently Learning
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com
+- Twitter: [@YourHandle](https://twitter.com/YourHandle)
+
+## 🚀 Recent Projects
+1. **[Project Name]** - Short description ([GitHub](link))
+2. **[Project Name]** - Short description ([GitHub](link))
+3. **[Project Name]** - Short description ([GitHub](link))
