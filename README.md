@@ -3,8 +3,7 @@
   <div align="left">
     <h3>👋 Hi there,</h3>
     <p style="font-size: 16px; line-height: 1.5;">
-      I'm <strong>Antoine</strong>, a passionate <strong>Backend Developer</strong> dedicated to building reliable and scalable backend systems.<br>
-      I specialize in designing APIs, managing databases, and bringing performance to web applications.
+      I'm <strong>Antoine<strong>Backend Developer</strong>
     </p>
   </div>
 </div>
