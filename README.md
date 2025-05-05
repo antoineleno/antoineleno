@@ -1,27 +1,10 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Antoine Image" width="200" style="border-radius: 50%; float: left; margin-right: 30px;"/>
-  
-  <div style="text-align: left; display: inline-block; max-width: 60%;">
-    <h1>👋 Hello, I'm Antoine Leno</h1>
-    <h3>Backend Developer | Software Engineer</h3>
-    <p>
-      Passionate about building scalable systems and efficient architectures. 
-      Specializing in backend development with expertise in distributed systems and cloud technologies.
-    </p>
-    
-    <p>
-      <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-      <a href="https://github.com/antoineleno">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9984201?v=4" alt="Left Image" width="45%" />
+  <img src="https://res.cloudinary.com/dha9n3uwa/image/upload/fl_preserve_transparency/v1746469823/9984201_yd68d9.jpg?_s=public-apps" alt="Right Image" width="45%" />
+</p>
+
+
+
 
 <br clear="both"/>
 
