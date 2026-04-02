@@ -7,7 +7,7 @@
 
 I'm a dedicated **Software Engineer** specializing in **Backend Development**, with a strong drive for building robust and scalable systems. I enjoy tackling complex problems, continuously enhancing my skills, and collaborating with others to deliver impactful software solutions.
 
-- 🌱 **Currently Exploring:** Advanced features of **Django**
+- 🌱 **Currently Exploring:** Python framework**AIOHttp**
 - 🔭 **Current Focus:** Developing personal backend projects
 - 🌍 **Languages:** Fluent in **French** and **English**
 - 📫 **Reach Me At:** [antoine.leno11@gmail.com](mailto:antoine.leno11@gmail.com)
